@@ -4,7 +4,6 @@
 ```cpp
 #include <iostream>
 
-// It's funny, because happiness is never reached.
 int main() 
 {    
     main();
