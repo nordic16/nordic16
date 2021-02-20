@@ -7,5 +7,7 @@
 int main() 
 {    
     main();
-    std::cout << "Happiness" << std::endl;
+    
+    // Unreachable statement :P
+    std::cout << "I am good at programming." << std::endl;
 }
