@@ -10,11 +10,19 @@
 </div>
 
 ![image](https://user-images.githubusercontent.com/55633950/152697792-e57b6a87-7469-4327-b366-f56e3b25fad5.png)
+
+
+<div align="center">
+  <a href="https://trakt.tv/users/nordic16"><img src="https://trakt-widgets.herokuapp.com/nordic16/watched/card" width="auto" height="250px"></a>
+</div>
+
+
 # 🕵️‍♂️ About Me: 
 * 🇵🇹 I am a programmer and student from Portugal.
 * 🚀 I am a massive fan of Star Wars.
 * 🐍 Python was my first programming language, and I still use it to this day!
 * 🏋️ I love working out! 
+* 👹 I love anime!
 
 # 👨‍💻 Programming Languages and Tools I currently use:
 <div id="tools">
@@ -29,5 +37,4 @@
 
 # 🗒️ My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nordic16&theme=dark&background=000000)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nordic16&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
