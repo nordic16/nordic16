@@ -7,15 +7,9 @@
   <img alt="Mozilla Add-on" src="https://img.shields.io:/amo/stars/me?color=%23FFFFFF&label=life%20experience&style=for-the-badge"> 
   
   <h1>Hello there! 👾</h1>
+  
+  <img alt="Yoda vs The Senate" src="https://user-images.githubusercontent.com/55633950/152697792-e57b6a87-7469-4327-b366-f56e3b25fad5.png" width=800> 
 </div>
-
-![image](https://user-images.githubusercontent.com/55633950/152697792-e57b6a87-7469-4327-b366-f56e3b25fad5.png)
-
-
-<div align="center">
-  <a href="https://trakt.tv/users/nordic16"><img src="https://trakt-widgets.herokuapp.com/nordic16/watched/card" width="auto" height="250px"></a>
-</div>
-
 
 # 🕵️‍♂️ About Me: 
 * 🇵🇹 I am a programmer and student from Portugal.
@@ -38,3 +32,8 @@
 # 🗒️ My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nordic16&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nordic16&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+# 🎥 Trakt
+<div align="center">
+  <a href="https://trakt.tv/users/nordic16"><img src="https://trakt-widgets.herokuapp.com/nordic16/watched/card" width="auto" height="300px"></a>
+</div>
