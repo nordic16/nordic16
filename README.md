@@ -16,7 +16,8 @@
 * 🚀 I am a massive fan of Star Wars.
 * 🐍 Python was my first programming language, and I still use it to this day!
 * 🏋️ I love working out! 
-* 👹 I love anime!
+* 👹 I love watching anime and TV shows in general!
+* 🎵 My favorite music genres are Heavy Metal and Electro.
 
 # 👨‍💻 Programming Languages and Tools I currently use:
 <div id="tools">
