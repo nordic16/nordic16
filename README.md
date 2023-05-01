@@ -8,7 +8,7 @@
   
   <h1>Hello there! 👾</h1>
   
-  <img alt="Yoda vs The Senate" src="https://user-images.githubusercontent.com/55633950/152697792-e57b6a87-7469-4327-b366-f56e3b25fad5.png" width=800> 
+  <img alt="Luffy bound man" src="https://media.tenor.com/JsUuJJrIB0oAAAAd/monkey-d-luffy-luffy-smile.gif" width=600> 
 </div>
 
 # 🕵️‍♂️ About Me: 
