@@ -13,11 +13,11 @@
 
 # 🕵️‍♂️ About Me: 
 * 🇵🇹 I am a programmer and student from Portugal.
-* 🚀 I am a massive fan of Star Wars.
+* 🚀 Anakin Skywalker is one of my favorite characters in fiction.
 * 🐍 Python was my first programming language, and I still use it to this day!
-* 🏋️ I love working out! 
-* 👹 I love watching anime and TV shows in general!
-* 🎵 My favorite music genres are Heavy Metal and Electro.
+* 🏋️ The gym is my second home 
+* 👹 One Piece >>>
+* 🎵 My favorite music genres are Heavy Metal and Phonk (not drift phonk).
 
 # 👨‍💻 Programming Languages and Tools I currently use:
 <div id="tools">
