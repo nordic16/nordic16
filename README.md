@@ -6,7 +6,7 @@
 <div align="center">
   <img src="https://i.ytimg.com/vi/DEj_e-mbQbg/sddefault.jpg" width"300"/>
   
-  <em>Everything you've ever seen and ever will see is inside this 10-billion light-year structure.</em>
+  <em>Everything you've ever seen and _will_ see is inside this 10-billion light-year structure.</em>
 </div>
   
 ## 🕵️‍♂️ About Me: 
