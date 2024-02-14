@@ -2,16 +2,9 @@
   <img src="https://media.giphy.com/media/kB3c7Gm4OXGNO/giphy.gif" width="600"/>
 </div>
 
-# Smile! Life is meaningless.
-<div align="center">
-  <img src="https://i.ytimg.com/vi/DEj_e-mbQbg/sddefault.jpg" width"300"/>
-  
-  <em>Everything you've ever seen and will ever see is inside this 10-billion light-year structure.</em>
-</div>
   
 ## About Me: 
-* Portuguese 🇵🇹 physics student who is also somewhat interested in programming.
-* I love Star Wars and One Piece.
+I don't know what I'm doing with my life 😃
 
 ## Stuff I use at the moment
 <div id="tools">
