@@ -1,7 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/kB3c7Gm4OXGNO/giphy.gif" width="600"/>
 </div>
-
   
 ## About Me: 
 I don't know what I'm doing with my life 😃
