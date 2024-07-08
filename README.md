@@ -1,6 +1,7 @@
 ## About Me: 
 ```
 + I don't know what I'm doing with my life 😃
++ (send help)
 + I ❤️ lifting
 + I like reading manga and watching anime.
 ++ Favorites:
