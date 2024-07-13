@@ -1,14 +1,5 @@
-## About Me: 
-```
-+ I don't know what I'm doing with my life 😃
-+ (send help)
-+ I ❤️ lifting
-+ I like reading manga and watching anime.
-++ Favorites:
-+++ One Piece
-+++ Berserk
-+++ Jojo's Bizarre Adventure
-```
+### Those who do not move, do not notice their chains
+
 ## Stuff I use at the moment
 <div id="tools" align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
