@@ -1,4 +1,4 @@
-### Those who do not move, do not notice their chains
+### Those who do not move, do not notice their chains - Rosa Luxembourg
 
 ## Stuff I use at the moment
 <div id="tools" align="center">
