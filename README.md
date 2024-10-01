@@ -1,5 +1,3 @@
-### Those who do not move, do not notice their chains - Rosa Luxembourg
-
 ## Stuff I use at the moment
 <div id="tools" align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
